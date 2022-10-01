@@ -1,5 +1,5 @@
 # hacktoberfest
-## accepted pull requests:
-- any sorting algorithm 
-- any pattern printing program 
-- any searching algorithm
+## guidelines
+- sorting algorithm 
+- pattern printing program 
+- searching algorithm
